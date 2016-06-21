@@ -1,6 +1,8 @@
 # bash-powerline
 
-Powerline for Bash in pure Bash script. 
+Note: I keep this version for Git 1.7.X compatibility
+
+Powerline for Bash in pure Bash script.
 
 ![bash-powerline](https://raw.github.com/riobard/bash-powerline/master/screenshots/solarized-light-source-code-pro.png)
 ![bash-powerline](https://raw.github.com/riobard/bash-powerline/master/screenshots/solarized-dark-monaco.png)
